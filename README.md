@@ -1,6 +1,6 @@
 # Gradients and shadows app
 
-Simple usefull instrument to get styles for gradients and shadow
+Simple and usefull instrument to get styles for gradients and shadow
 
 ## Shadows
 
